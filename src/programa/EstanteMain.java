@@ -10,6 +10,7 @@ import classes.Autor;
 import classes.Editora;
 import classes.Estante;
 import classes.Revista;
+import classes.janela_principal;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import java.io.BufferedReader;
@@ -104,5 +105,8 @@ public class EstanteMain {
             System.out.println("Pau no file...");
             ex.getStackTrace();
         }
+        janela_principal teste = new janela_principal();
+        teste.main(args);
+        
     }
 }
