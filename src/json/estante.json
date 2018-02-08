@@ -1,0 +1,41 @@
+{
+  "totalDeRevistas": 0,
+  "revistas": [
+    {
+      "nome": "Veja",
+      "numEdicao": 2569,
+      "dataPub": {
+        "year": 2018,
+        "month": 1,
+        "day": 31
+      },
+      "editora": {
+        "nome": "Abril",
+        "cnpj": "02183757000193"
+      },
+      "manchete": "Lula a um passo do abismo",
+      "areaAtuacao": "Mista",
+      "artigos": [
+        {
+          "titulo": "Três homens e um destino",
+          "pagina": 19,
+          "autores": [
+            {
+              "nome": "Da Redação"
+            }
+          ],
+          "palavrasChaves": [
+            "Lula",
+            "TRF4",
+            "Condenado",
+            "Julgamento",
+            "Triplex"
+          ]
+        }
+      ]
+    }
+  ],
+  "fileJson": {
+    "path": "src\\json\\estante.json"
+  }
+}
